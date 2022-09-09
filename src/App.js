@@ -27,7 +27,7 @@ function App() {
       <section className="menu section">
         <div className="title">
           <h2>House 1770</h2>
-          <h4>FINE DINING & WINE TESTING</h4>
+          <h4>FINE DINING & WINE TASTING</h4>
           <div className="underline"></div>
         </div>
         <Categories categories={categories} filterItems={filterItems} />
